@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GD/iw4XipGzkw7E3Wwt1s+tqhk3dBwIWNA6Y+gPEOYwbFDpyKocRer33jEGBVl20Gs3iCShpT0EnUpcIRVAUFg==",
+  "success": true,
+  "projectFilePath": "E:\\BootCamp\\MovieApplicationMVC\\MovieApp.Core\\MovieApp.Core.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.16\\microsoft.windowsdesktop.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.16\\microsoft.netcore.app.ref.6.0.16.nupkg.sha512",
+    "C:\\Users\\Hp\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.16\\microsoft.aspnetcore.app.ref.6.0.16.nupkg.sha512"
+  ],
+  "logs": []
+}

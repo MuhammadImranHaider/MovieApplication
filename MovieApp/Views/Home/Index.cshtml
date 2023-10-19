@@ -1,0 +1,15 @@
+﻿@model IEnumerable<MovieApp.Models.MovieViewModel>
+
+@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Movie List</h1>
+    <div>
+        @{
+            var movieCount = Model == null? 0 : Model.Count();
+        }
+        There are @movieCount of movies in database.
+    </div>
+</div>
